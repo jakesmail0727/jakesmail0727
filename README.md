@@ -5,9 +5,9 @@
 
 I’m a seasoned full-stack developer with over a decade of hands-on experience building scalable web and mobile applications. I specialize in delivering high-performance solutions with clean architecture, intuitive UI/UX, and strong backend foundations. I thrive in modern tech stacks, cross-functional teams, and end-to-end development.
 
----
+
 ## 🧰 Core Technologies
----
+
 ### Frontend:
 React, Angular, Next.js, Vue.js, React Native, Flutter, TypeScript, JavaScript (ES6+), TailwindCSS, SCSS
 
@@ -27,7 +27,7 @@ Docker, Kubernetes, GitHub Actions, Azure DevOps, AWS, Azure, GCP, CI/CD, Terraf
 OAuth2, JWT, SSO, Role-Based Access Control
 
 ## 🚀 Highlighted Projects
----
+
 ### 🌐 Enterprise HR Platform
 
 Built end-to-end using Angular and .NET Core with SQL Server. Implemented role-based auth, dashboards, and performance modules.
@@ -41,7 +41,7 @@ Developed using ASP.NET MVC and Angular. Integrated third-party APIs, optimized 
 Delivered mobile apps using React Native and Flutter with secure API integration and responsive UI/UX.
 
 ## 📊 GitHub Stats (optional if adding later)
----
+
 
 You can add your stats card here when your username is available.
 
